@@ -24,4 +24,4 @@ Abaixo encontram-se os cálculos efetuados para analisar o comportamento térmic
 | 5 | 3.3 | 0.3 | 0.51 | 50 | 21 | 50.5 | 38.515 |
 | 9 | 3.3 | 0.3 | 1.71 | 50 | 21 | 110.5 | 70.315 |
 
-*Nota: **Ttnu** representa a temperatura estimada do componente sem dissipador (nú), e **Ttcom** com o uso de dissipador térmico externo. Como se pode ver pelos valores a 0.8A no LM7805, o uso de dissipadores é obrigatório para evitar que o componente queime.*
+*Nota: **Ttnu** representa a temperatura estimada do componente sem dissipador (nú), e **Ttcom** com  dissipador térmico externo. 
