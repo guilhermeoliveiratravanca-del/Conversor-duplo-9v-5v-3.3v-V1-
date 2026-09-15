@@ -1,4 +1,4 @@
-# Conversor Duplo de Voltagem (9V para 5V e 3.3V) - V1
+ Conversor Duplo de Voltagem (9V para 5V e 3.3V) - V1
 
 Este projeto consiste num conversor duplo de tensão utilizando reguladores lineares para rebaixar uma entrada de **9V** para duas saídas estáveis: **5V** (via conector USB-A) e **3.3V** (via terminal de parafusos). É ideal para alimentar placas de desenvolvimento como Arduino e ESP32.
 
