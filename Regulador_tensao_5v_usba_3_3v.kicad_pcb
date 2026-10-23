@@ -7440,6 +7440,17 @@
 		(layer "F.Cu")
 		(uuid "b4567956-cc0f-4b63-9963-020107a787f9")
 	)
+	(gr_rect
+		(start 83.2 89.6)
+		(end 208 160.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "dcc0a026-e153-4710-9db0-b8c4e7caa1ed")
+	)
 	(segment
 		(start 142 123.65)
 		(end 142 111.65)
